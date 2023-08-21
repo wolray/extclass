@@ -1,7 +1,7 @@
 # Ext-Class
 Adding fields/methods to existing classes. 
 
-A Python approach to the great `extensions` feature in C# and Kotlin, and probably the closest.
+A Python approach to method/field extensions like in C# and Kotlin, probably the closest.
 
 ## How to use
 ```

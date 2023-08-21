@@ -8,7 +8,7 @@ setuptools.setup(
     version='1.0.0',
     author='wolray',
     author_email='wolray@foxmail.com',
-    description='A Python approach for class extensions like C# and Kotlin',
+    description='A Python approach to method/field extensions like in C# and Kotlin',
     long_description=long_description,
     long_description_content_type='text/markdown',
     url='https://github.com/wolray/extclass',
